@@ -1,11 +1,12 @@
 repo_name: liftyourgame/node-email-templates
 report_id: a2ae85a3c3f47d8176732e20f89c4b50
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T16:27:26+00:00'
+timestamp: '2024-01-05T08:24:04+00:00'
 requested_by: liftyourgame
 provider: github
 branch: master
-detected_tools_count: 37
+detected_tools_count: 38
 tools:
 - name: EJS
   description: An Embedded JavaScript templating Language
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Nick Baugh
   last_updated_on: 2012-06-15 14:23:51.000000000 Z
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/liftyourgame/node-email-templates
   detection_source: Repo Metadata
 - name: Pug
   description: Robust, elegant, feature rich template engine for nodejs
@@ -50,6 +53,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1175/pug.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Nick Baugh
   last_updated_on: 2012-06-15 14:23:51.000000000 Z
@@ -63,6 +67,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Nick Baugh
   last_updated_on: 2012-06-15 14:23:51.000000000 Z
@@ -89,6 +94,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Nick Baugh
   last_updated_on: 2012-06-15 14:23:51.000000000 Z
@@ -101,6 +107,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1172/stylus.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Jeduan Cornejo
   last_updated_on: 2016-01-29 03:03:06.000000000 Z
@@ -113,6 +120,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/.babelrc
   detection_source: ".babelrc"
   last_updated_by: Jeduan Cornejo
   last_updated_on: 2016-01-29 03:23:44.000000000 Z
@@ -138,6 +146,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates
   detection_source: Repo Metadata
 - name: Istanbul
   description: A JS code coverage tool written in JS
@@ -147,6 +156,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Greg Pagendam-Turner
   last_updated_on: 2017-06-04 00:44:54.000000000 Z
@@ -173,6 +183,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Nick Baugh
   last_updated_on: 2012-06-15 14:23:51.000000000 Z
@@ -198,6 +209,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Jeduan Cornejo
   last_updated_on: 2015-05-17 09:34:31.000000000 Z
@@ -209,6 +221,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Nick Baugh
   last_updated_on: 2012-06-15 14:23:51.000000000 Z
@@ -220,6 +233,7 @@ tools:
   category: Communications
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/45/default_e14042211227a4ae0040d034737714ba677b5a57.jpg
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Jeduan Cornejo
   last_updated_on: 2015-05-17 09:31:07.000000000 Z
@@ -232,6 +246,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/11991/bb.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Jeduan Cornejo
   last_updated_on: 2016-01-29 03:03:06.000000000 Z
@@ -256,6 +271,7 @@ tools:
   category: Communications
   sub_category: Transactional Email
   image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Harold Thetiot
   last_updated_on: 2017-04-28 20:01:12.000000000 Z
@@ -265,6 +281,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2435/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
   detection_source: package.json
   last_updated_by: Nick Baugh
   last_updated_on: 2012-06-15 14:23:51.000000000 Z
@@ -573,3 +590,24 @@ tools:
   detection_source: package.json
   last_updated_by: Greg Pagendam-Turner
   last_updated_on: 2017-06-04 00:44:54.000000000 Z
+- name: swig
+  description: A simple
+  package_url: https://www.npmjs.com/swig
+  version: 1.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16899/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
+  detection_source_url: https://github.com/liftyourgame/node-email-templates/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Harold Thetiot
+  last_updated_on: 2017-04-28 20:01:12.000000000 Z
+  vulnerabilities:
+  - name: 'Arbitrary local file read vulnerability during template rendering '
+    cve_id: CVE-2023-25345
+    cve_url: https://github.com/advisories/GHSA-2rq5-699j-x7p6
+    detected_date: Mar 17
+    severity: high
+    first_patched: 
