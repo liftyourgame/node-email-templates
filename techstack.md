@@ -58,7 +58,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [liftyourgame/node-email-templates](https://github.com/liftyourgame/node-email-templates)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|37<br/>Tools used|12/14/23 <br/>Report generated|
+|38<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -266,9 +266,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (16)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (15)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (16)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -287,6 +287,7 @@ Full tech stack [here](/techstack.md)
 |[rimraf](https://www.npmjs.com/rimraf)|v2.2.8|05/17/15|Jeduan Cornejo |ISC|N/A|
 |[sinon-chai](https://www.npmjs.com/sinon-chai)|v2.7.0|07/06/15|Jeduan Cornejo |BSD-2-Clause,WTFPL|N/A|
 |[standard](https://www.npmjs.com/standard)|v7.0.0|06/04/17|Greg Pagendam-Turner |MIT|N/A|
+|[swig](https://www.npmjs.com/swig)|v1.3.2|04/28/17|Harold Thetiot |MIT|[CVE-2023-25345](https://github.com/advisories/GHSA-2rq5-699j-x7p6) (High)|
 
 <br/>
 <div align='center'>
